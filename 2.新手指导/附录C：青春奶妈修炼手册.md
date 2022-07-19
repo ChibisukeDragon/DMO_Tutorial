@@ -86,9 +86,11 @@
 
 多余的IC技能，低级的可以全部扔掉或者是塞给其他宠玩，中级的看情况保留，高级的可以囤着。使用IC技能道具，就可以让当前数码兽的当前进化形态学习该技能。初阶奶妈也可以塞入几个低级或中级的技能，待以后抽到高级的技能后删除原技能再更换为新技能即可。
 
-释放IC技能需要消耗背包中的**记忆芯片**（Memory Chip）<img src="../imgs/Item/Memory Skill/Memory Chip.png"/>，你可以在基地的贩卖机处购买它。如果你奶妈的进化需要消耗**进化器**（Accelerator）<img src="../imgs/Item/Accelerator.png"/>，也可以进行购买。
+释放IC技能需要消耗背包中的**记忆芯片**（Memory Chip）<img src="../imgs/Item/Memory Skill/Memory Chip.png"/>，你可以在基地的贩卖机处购买它。如果你奶妈的进化需要消耗**加速器**（Accelerator）<img src="../imgs/Item/Accelerator.png"/>，也可以进行购买。
 
 <div align="center"><img src="../imgs/Screenshot/2.新手指导/附录C/自动贩卖机.png"/> <img src="../imgs/Screenshot/2.新手指导/附录C/商店.png"/></div>
+
+> 注：记忆芯片本身就很便宜，地摊也没人卖，没利润。而加速器在商店卖5![](../imgs/M.png)，在地摊也许能找到2![](../imgs/M.png)的价格哦！
 
 ## 4. 合适的奶妈数码兽
 
@@ -101,15 +103,15 @@
 | 3    | ![](../imgs/Digimon/Ryudamon.png)龙胎兽 | ![](../imgs/Digimon/Ryudamon.png)![](../imgs/Digimon/GinRyumon.png)![](../imgs/Digimon/HisyaRyumon.png)![](../imgs/Digimon/OuRyumon.png)<img src="../imgs/Digimon/Alphamon Ouryuken.png"/><img src="../imgs/Digimon/Alphamon OuryukenX.png"/><img src="../imgs/Digimon/Alphamon Ouryuken(Awaken).png"/> |        7        | ⭐      |
 | 4    | ![](../imgs/Digimon/Salamon.png)小狗兽  | ![](../imgs/Digimon/Salamon.png)![](../imgs/Digimon/Gatomon.png)![](../imgs/Digimon/Angewomon.png)![](../imgs/Digimon/MagnaDramon.png)![](../imgs/Digimon/Ophanimon.png) ； ![](../imgs/Digimon/Salamon.png)![](../imgs/Digimon/Goatmon.png)                                                            |        5        | ⭐⭐    |
 
-1. V仔兽（ExVeemon）：是具有**最长的最低成本进化开销**的数码兽，也是我们最推荐的。从V仔兽一直进化到帝皇龙甲兽战斗模式![](../imgs/Digimon/Imperialdramon(FighterMode).png)，总共含5个形态，进化只需要DS，萌新做奶妈就可以只做到这里为止。如果想要再更强更奶，可以后期再扩展到圣骑士![](../imgs/Digimon/Imperialdramon(PaladinMode).png)，进化开销增多了进化器![](../imgs/Item/Accelerator.png)道具。
+1. V仔兽（ExVeemon）：是具有**最长的最低成本进化开销**的数码兽，也是我们最推荐的。从V仔兽一直进化到帝皇龙甲兽战斗模式![](../imgs/Digimon/Imperialdramon(FighterMode).png)，总共含5个形态，进化只需要DS，萌新做奶妈就可以只做到这里为止。如果想要再更强更奶，可以后期再扩展到圣骑士![](../imgs/Digimon/Imperialdramon(PaladinMode).png)，进化开销增多了加速器![](../imgs/Item/Accelerator.png)道具。
 2. 比特兽（Betamon）：是具有**X进化**的典型数码兽。常规数码兽的单条路线形态个数是5，因为多了一个X进化形态，所以变为非常稀少的6，成为优质奶妈的候选。但是因为最后的十亿海龙兽X![](../imgs/Digimon/GigaSeadramonX.png)，需要X抗体能量条![](../imgs/Item/X-Antibody.png)才能进化，因此进化开销较大，并且海龙兽的X抗体因子<img src="../imgs/Item/X-Antibody Factor/GigaSeadramon X-Antibody Factor.png"/>也不好获得。
 3. 龙胎兽（Ryudamon）：具有**废件**特质的典型数码兽。虽然其进化路线长达7，但从阿尔法兽王龙剑<img src="../imgs/Digimon/Alphamon Ouryuken.png"/>开始，其IC技能都只接受合体技，价格昂贵且效果稍弱。而且阿尔法兽王龙剑觉醒<img src="../imgs/Digimon/Alphamon Ouryuken(Awaken).png"/>更是氪金大佬的选择，所以进化路线长，也不一定适合萌新拿来做奶妈。因为龙骀兽通常是萌新入坑时就要孵化的数码兽，被用作是多路兽![](../imgs/Digimon/Dorumon.png)合体进化的废件数码兽，常备于携带栏中，所以也可以拿来做奶妈，发挥它余生的作用。
-4. 小狗兽（Salamon）：其是具有**控制技能**的典型数码兽。小狗兽进化为圣龙兽也是很常规的长度4，进化为神圣天女兽![](../imgs/Digimon/Ophanimon.png)需要进化器![](../imgs/Item/Accelerator.png)道具，开销稍多，因此小狗兽本质上不是一个优秀奶妈选择。但是其装甲进化的山羊兽![](../imgs/Digimon/Goatmon.png)，具有全游戏唯一的控制效果，最长可控制敌人18秒，简直离大谱。
+4. 小狗兽（Salamon）：其是具有**控制技能**的典型数码兽。小狗兽进化为圣龙兽也是很常规的长度4，进化为神圣天女兽![](../imgs/Digimon/Ophanimon.png)需要加速器![](../imgs/Item/Accelerator.png)道具，开销稍多，因此小狗兽本质上不是一个优秀奶妈选择。但是其装甲进化的山羊兽![](../imgs/Digimon/Goatmon.png)，具有全游戏唯一的控制效果，最长可控制敌人18秒，简直离大谱。
 
 上面只是一些典型的奶妈数码兽，你也可以根据喜好选择自己的奶妈数码兽，例如选择真的“有奶”的狐狸兽![](../imgs/Digimon/Renamon.png)。。。但是要注意以下两条建议：
 
  - 少选择带有合体/联展进化的数码兽。因为自合体后，只能学习IC技能方块所开出的技能，价格昂贵且效果很弱，奶量少。这不意味着合体IC技一无是处，打本时若没有奶妈，C经常需要自学治疗技能。
- - 少选择装甲体数码兽。比较一下两条进化路线：[成长期装甲体成长期成熟期……] 和 [成长期成熟期……]。因为治愈之手的CD有30s，等于说，为了走装甲体这条线，我们浪费了至少1个进化的时间，而队友很可能在这个空隙死亡。除非你是手动奶妈，或许有更充足的时间来分配到装甲体上，否则尽量少考虑装甲体路线。
+ - 少选择装甲体数码兽。比较一下两条进化路线：[成长期->装甲体->成长期->成熟期……] 和 [成长期->成熟期……]。因为治愈之手的CD有30s，等于说，为了走装甲体这条线，我们浪费了至少1个进化的时间，而队友很可能在这个空隙死亡。除非你是手动奶妈，或许有更充足的时间来分配到装甲体上，否则尽量少考虑装甲体路线。
 
 
 ## 5. 真正成长为奶妈
@@ -120,7 +122,7 @@
 
 <div align="center"><img src="../imgs/Screenshot/2.新手指导/附录C/学习生命之树.png"/></div>
 
-之后进化为V仔兽EX，再学习治愈之手，将治愈之手放置于F3，再进化为机甲龙兽以此类推。最终，你可以选择到帝皇龙甲兽战士形态为止，这样是4奶+1树。若是选择扩展到白帝形态，则是极限的5奶+1树，这也意味着进化需要的进化器将增大你的开销。
+之后进化为V仔兽EX，再学习治愈之手，将治愈之手放置于F3，再进化为机甲龙兽以此类推。最终，你可以选择到帝皇龙甲兽战士形态为止，这样是4奶+1树。若是选择扩展到白帝形态，则是极限的5奶+1树，这也意味着进化需要的加速器将增大你的支出。
 
 <div align="center"><img src="../imgs/Screenshot/2.新手指导/附录C/学习治愈之手.png"/></div>
 
@@ -135,7 +137,7 @@
 
 奶妈请记住，**先去基地的贩卖机买芯片**<img src="../imgs/Item/Memory Skill/Memory Chip.png"/>，常备999个。
 
-然后我们和队友一起进竞技场，奶妈先进（人上人！）。因为最后进入竞技场的玩家优先获得仇恨，所以一般让主C最后进。
+然后我们和队友一起进竞技场，奶妈先进（人上人！）。因为最后进入竞技场的玩家优先获得仇恨，所以一般让主C最后进。（老手打竞技场时，会默认让主C切一次宠。切宠后将重新获得仇恨，以保证其他玩家的安全，也不用顾及是否让奶妈和萌新提前进）
 
 之后队友开打，我们就站在旁边看。普通竞技场有40层关卡，前面都是很轻松的，可以不奶，也可以偷懒直接在这里开脚本奶。
 
@@ -151,8 +153,8 @@
 
 |    配置    |                      道具                       | 数量  |         总价值         |
 | --------- | ----------------------------------------------- | ---- | --------------------- |
-| 一场竞技场 | <img src="../imgs/Item/Coin/Battle Point.png"/> | 1024 | 1.5![](../imgs/T.png) |
-| 两场竞技场 | <img src="../imgs/Item/Coin/Battle Point.png"/> | 2048 | 3![](../imgs/T.png)   |
+| 一场竞技场 | <img src="../imgs/Item/Coin/Battle Point.png"/> | 1072 | 1.5![](../imgs/T.png) |
+| 两场竞技场 | <img src="../imgs/Item/Coin/Battle Point.png"/> | 2144 | 3![](../imgs/T.png)   |
 
 然后一场20分钟的竞技场之旅，我们将失去：
 
@@ -163,7 +165,8 @@
         <th>数量</th>
         <th>可选其他道具</th>
         <th>总价值</th>
-        <th>总价值+进化器</th>
+        <th>总价值+加速器</th>
+        <th>总价值+地摊加速器</th>
 <tr/>
     <tr>
         <td>手动奶</td>
@@ -172,22 +175,25 @@
         <td rowspan="3"><div align="center"><img src="../imgs/Item/Accelerator.png"/> <img src="../imgs/Item/X-Antibody.png"/> <img src="../imgs/Item/Food/Chicken Combo.png"/></td>
         <td>10<img src="../imgs/M.png"/></td>
         <td>54.12<img src="../imgs/M.png"/></td>
+        <td>31.65<img src="../imgs/M.png"/></td>
     </tr>
     <tr>
         <td>脚本自动奶</td>
         <td>200+</td>
         <td>20<img src="../imgs/M.png"/></td>
         <td>93.53<img src="../imgs/M.png"/></td>
+        <td>49.41<img src="../imgs/M.png"/></td>
     </tr>
     <tr>
         <td>无进化CD脚本自动奶</td>
         <td>500+</td>
         <td>50<img src="../imgs/M.png"/></td>
         <td>211.76<img src="../imgs/M.png"/></td>
+        <td>114.70<img src="../imgs/M.png"/></td>
     </tr>
 </table>
 
-> 注：以上价值均为估算，仅供参考。
+> 注：地摊加速器指加速器单价以2![](../imgs/M.png)从地摊收的。以上价值均为估算，仅供参考。
 
 ## 8. 后话
 
@@ -196,6 +202,8 @@
 1. 掉线。
 2. 队友太菜，打得太久。
 3. 芯片不够。
+4. 忘记看驯兽师蓝量，导致无法进化。
+5. 单回技能再生能力有时会出BUG，导致无法使用。据说需要进化2个进化型才能解除该BUG。
 
 ### 8.2 奶妈的未来发展
 
