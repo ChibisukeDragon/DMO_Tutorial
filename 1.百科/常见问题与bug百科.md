@@ -358,3 +358,22 @@ Q6：图鉴/成就/称号解锁的BUFF可以叠加吗？</summary>
 启动游戏时报错。
 <div align="center"><img src="../imgs/Screenshot/1.百科/常见问题与bug百科/CreateRendererError.png"/></div>
 解决办法：尝试重启，不知道好不好使。
+
+### B19：图鉴BUFF页面，数码兽全部显示为黑色未解锁
+
+是因为，如果你已经激活了一个图鉴BUFF，则所有其他的数码兽全部都会变成黑色。你取消了那个BUFF，解锁的数码兽才会正常显示出来。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
