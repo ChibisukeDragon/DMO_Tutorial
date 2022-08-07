@@ -24,7 +24,6 @@
 | <img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 100%25.png"/>    | Digimon Boost - [Skill Damage] + 100%    | 基础技能伤害+100% |    1h    | 15m      | 几乎都不可交易 |
 | <img src="../imgs/Item/Buff/Digimon Boost - [Critical Attack] + 100%25.png"/> | Digimon Boost - [Critical Attack] + 100% | 基础暴击伤害+100% |    1h    | 15m      | 几乎都不可交易 |
 | <img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 50%25.png"/>       | Digimon Boost - [Skill Damage] + 50%     | 基础技能伤害+50%  |    1h    | 15m      | 几乎都不可交易 |
-Digimon Boost - [Skill Damage] + 50%
 > 注：备注中未特殊说明的道具，均为存在可交易的道具。
 
 ### 1.2 插入卡Plugin Card
