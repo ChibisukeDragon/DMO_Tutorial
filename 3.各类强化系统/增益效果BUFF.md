@@ -15,31 +15,31 @@
 
 最常见的增益BUFF道具，就是数码兽增幅器Digimon Boost。
 
-|                                     图标                                     |                   名称                    |       效果       | 持续时间 | 冷却时间 |     备注      |
-| --------------------------------------------------------------------------- | ---------------------------------------- | ---------------- | :------: | -------- | ------------- |
-| <img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%.png"/>           | Digimon Boost - [Attack] + 50%           | 基础AT+50%       |    1h    |          | 几乎都不可交易 |
-| <img src="../imgs/Item/Buff/Digimon Boost - [Defense] + 50%.png"/>          | Digimon Boost - [Defense] + 50%          | 基础DE+50%       |    1h    |          | 几乎都不可交易 |
-| <img src="../imgs/Item/Buff/Digimon Boost - [Max HP] + 50%.png"/>           | Digimon Boost - [Max HP] + 50%           | 基础HP上限+50%    |    1h    |          | 几乎都不可交易 |
-| <img src="../imgs/Item/Buff/Digimon Boost - [Max DS] + 50%.png"/>           | Digimon Boost - [Max DS] + 50%           | 基础DS上限+50%    |    1h    |          | 几乎都不可交易 |
-| <img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 100%.png"/>    | Digimon Boost - [Skill Damage] + 100%    | 基础技能伤害+100% |    1h    | 15m      | 几乎都不可交易 |
-| <img src="../imgs/Item/Buff/Digimon Boost - [Critical Attack] + 100%.png"/> | Digimon Boost - [Critical Attack] + 100% | 基础暴击伤害+100% |    1h    | 15m      | 几乎都不可交易 |
-| <img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 50%.png"/>     | Digimon Boost - [Skill Damage] + 50%     | 基础技能伤害+50%  |    1h    | 15m      | 几乎都不可交易 |
-
+|                                      图标                                      |                   名称                    |       效果       | 持续时间 | 冷却时间 |     备注      |
+| ----------------------------------------------------------------------------- | ---------------------------------------- | ---------------- | :------: | -------- | ------------- |
+| <img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%25.png"/>           | Digimon Boost - [Attack] + 50%           | 基础AT+50%       |    1h    |          | 几乎都不可交易 |
+| <img src="../imgs/Item/Buff/Digimon Boost - [Defense] + 50%25.png"/>          | Digimon Boost - [Defense] + 50%          | 基础DE+50%       |    1h    |          | 几乎都不可交易 |
+| <img src="../imgs/Item/Buff/Digimon Boost - [Max HP] + 50%25.png"/>           | Digimon Boost - [Max HP] + 50%           | 基础HP上限+50%    |    1h    |          | 几乎都不可交易 |
+| <img src="../imgs/Item/Buff/Digimon Boost - [Max DS] + 50%25.png"/>           | Digimon Boost - [Max DS] + 50%           | 基础DS上限+50%    |    1h    |          | 几乎都不可交易 |
+| <img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 100%25.png"/>    | Digimon Boost - [Skill Damage] + 100%    | 基础技能伤害+100% |    1h    | 15m      | 几乎都不可交易 |
+| <img src="../imgs/Item/Buff/Digimon Boost - [Critical Attack] + 100%25.png"/> | Digimon Boost - [Critical Attack] + 100% | 基础暴击伤害+100% |    1h    | 15m      | 几乎都不可交易 |
+| <img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 50%25.png"/>       | Digimon Boost - [Skill Damage] + 50%     | 基础技能伤害+50%  |    1h    | 15m      | 几乎都不可交易 |
+Digimon Boost - [Skill Damage] + 50%
 > 注：备注中未特殊说明的道具，均为存在可交易的道具。
 
 ### 1.2 插入卡Plugin Card
 
 这类BUFF十分稀少，市价较高，效果上和增幅器几乎完全相同。因为数码兽增幅器和插入卡是互斥的，所以也没人买。
 
-|                            图标                             |           名称           |       效果       | 持续时间 | 冷却时间 | 备注 |
-| ---------------------------------------------------------- | ----------------------- | ---------------- | :------: | -------- | ---- |
-|                                                            |                         | 基础AT+50%       |    1h    |          |      |
-| <img src="../imgs/Item/Buff/Plugin Card[DE]+50%.png"/>     | Plugin Card[DE]+50%     | 基础DE+50%       |    1h    |          |      |
-| <img src="../imgs/Item/Buff/Plugin Card[HP Max]+50%.png"/> | Plugin Card[HP Max]+50% | 基础HP上限+50%    |    1h    |          |      |
-| <img src="../imgs/Item/Buff/Plugin Card[DS Max]+50%.png"/> | Plugin Card[DS Max]+50% | 基础DS上限+50%    |    1h    |          |      |
-| <img src="../imgs/Item/Buff/Plugin Card[SCD]+100%.png"/>   | Plugin Card[SCD]+100%   | 基础技能伤害+100% |    1h    | 15m      |      |
-| <img src="../imgs/Item/Buff/Plugin Card[CAT]+100%.png"/>   | Plugin Card[CAT]+100%   | 基础暴击伤害+100% |    1h    | 15m      |      |
-|                                                            |                         | 基础技能伤害+50%  |    1h    | 15m      |      |
+|                             图标                              |           名称           |       效果       | 持续时间 | 冷却时间 | 备注 |
+| ------------------------------------------------------------ | ----------------------- | ---------------- | :------: | -------- | ---- |
+|                                                              |                         | 基础AT+50%       |    1h    |          |      |
+| <img src="../imgs/Item/Buff/Plugin Card[DE]+50%25.png"/>     | Plugin Card[DE]+50%     | 基础DE+50%       |    1h    |          |      |
+| <img src="../imgs/Item/Buff/Plugin Card[HP Max]+50%25.png"/> | Plugin Card[HP Max]+50% | 基础HP上限+50%    |    1h    |          |      |
+| <img src="../imgs/Item/Buff/Plugin Card[DS Max]+50%25.png"/> | Plugin Card[DS Max]+50% | 基础DS上限+50%    |    1h    |          |      |
+| <img src="../imgs/Item/Buff/Plugin Card[SCD]+100%25.png"/>   | Plugin Card[SCD]+100%   | 基础技能伤害+100% |    1h    | 15m      |      |
+| <img src="../imgs/Item/Buff/Plugin Card[CAT]+100%25.png"/>   | Plugin Card[CAT]+100%   | 基础暴击伤害+100% |    1h    | 15m      |      |
+|                                                              |                         | 基础技能伤害+50%  |    1h    | 15m      |      |
 
 > 注：未写的内容，是暂时在地摊上找不到现成的商品，无法考证。
 
@@ -49,14 +49,14 @@
 
 |                                      图标                                      |                    名称                     |       效果       | 持续时间 | 冷却时间 |            备注            |
 | ----------------------------------------------------------------------------- | ------------------------------------------ | ---------------- | :------: | :------: | ------------------------- |
-| <img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%.png"/>               | Grace of Challenge [AT] +50%               | 基础AT+50%       |    2h    |          |                           |
-| <img src="../imgs/Item/Buff/Grace of Challenge [HP Max] +50%.png"/>           | Grace of Challenge [HP Max] +50%           | 基础HP上限+50%    |    2h    |          |                           |
-| <img src="../imgs/Item/Buff/Grace of Challenge [DS Max] +50%.png"/>           | Grace of Challenge [DS Max] +50%           | 基础DS上限+50%    |    2h    |          |                           |
-| <img src="../imgs/Item/Buff/Grace of Challenge [DE] +50%.png"/>               | Grace of Challenge [DE] +50%               | 基础DE+50%        |    2h    |          | 似乎只有青龙、黄龙副本会产出 |
-| <img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%.png"/>            | Grace of Challenge [EXP] +1000%            | 经验获得量+1000%  |    2h    |          |                           |
-| <img src="../imgs/Item/Buff/Grace of Challenge [Skill Damage] +100%.png"/>    | Grace of Challenge [Skill Damage] +100%    | 基础技能伤害+100% |    2h    |   15m    |                           |
-| <img src="../imgs/Item/Buff/Grace of Challenge [Critical Damage] +100%.png"/> | Grace of Challenge [Critical Damage] +100% | 基础暴击伤害+100% |    2h    |   15m    |                           |
-| <img src="../imgs/Item/Buff/Grace of Challenge [MS] +35%.png"/>               | Grace of Challenge [MS] +35%               | 移动速度+35%      |    2h    |    5m    |                           |
+| <img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%25.png"/>               | Grace of Challenge [AT] +50%               | 基础AT+50%       |    2h    |          |                           |
+| <img src="../imgs/Item/Buff/Grace of Challenge [HP Max] +50%25.png"/>           | Grace of Challenge [HP Max] +50%           | 基础HP上限+50%    |    2h    |          |                           |
+| <img src="../imgs/Item/Buff/Grace of Challenge [DS Max] +50%25.png"/>           | Grace of Challenge [DS Max] +50%           | 基础DS上限+50%    |    2h    |          |                           |
+| <img src="../imgs/Item/Buff/Grace of Challenge [DE] +50%25.png"/>               | Grace of Challenge [DE] +50%               | 基础DE+50%        |    2h    |          | 似乎只有青龙、黄龙副本会产出 |
+| <img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%25.png"/>            | Grace of Challenge [EXP] +1000%            | 经验获得量+1000%  |    2h    |          |                           |
+| <img src="../imgs/Item/Buff/Grace of Challenge [Skill Damage] +100%25.png"/>    | Grace of Challenge [Skill Damage] +100%    | 基础技能伤害+100% |    2h    |   15m    |                           |
+| <img src="../imgs/Item/Buff/Grace of Challenge [Critical Damage] +100%25.png"/> | Grace of Challenge [Critical Damage] +100% | 基础暴击伤害+100% |    2h    |   15m    |                           |
+| <img src="../imgs/Item/Buff/Grace of Challenge [MS] +35%25.png"/>               | Grace of Challenge [MS] +35%               | 移动速度+35%      |    2h    |    5m    |                           |
 
 > 注：有时你能在地摊找到其他的四圣BUFF，但他们都可以在基地的蛋蛋兽处兑换成统一的BUFF，也就是Grace of Challenge。
 
@@ -69,7 +69,7 @@
 | <img src="../imgs/Item/Buff/Amplification Booster.png"/>           | Amplification Booster           | 经验获得量+200%/300%/500%/1000% |    30m    |          | 新手礼包会送很多 |
 | <img src="../imgs/Item/Buff/Super Amplification Booster.png"/>     | Super Amplification Booster     | 经验获得量+1000%                |    1h     |          |                 |
 | <img src="../imgs/Item/Buff/Attribute EXP Booster.png"/>           | Attribute EXP Booster           | 经验获得量+50%                  | 1d/7d/15d |          |                 |
-| <img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%.png"/> | Grace of Challenge [EXP] +1000% | 经验获得量+1000%                |    2h     |          |                 |
+| <img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%25.png"/> | Grace of Challenge [EXP] +1000% | 经验获得量+1000%                |    2h     |          |                 |
 | <img src="../imgs/Item/Buff/Spicy Chilli.png"/>                    | Spicy Chilli                    | 经验获得量+1000%                |    1h     |    1h    |                 |
 
 
@@ -80,15 +80,15 @@
 
 ### 2.1 普通BUFF
 
- - 前面提到的增幅器BUFF<img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%.png"/>和插入卡BUFF，可以视为同一类BUFF。可以理解为它们本质是一样的，只是名字不一样，占你背包空间。
- - 增幅器中的AT<img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%.png"/>和DE<img src="../imgs/Item/Buff/Digimon Boost - [Defense] + 50%.png"/>视为两个BUFF，可以同时生效，其他同理。
- - 增幅器的SCD存在两种数值，50%<img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 50%.png"/>和100%<img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 100%.png"/>，视为同一个BUFF，不可叠加。
- - 四圣BUFF<img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%.png"/>和增幅器<img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%.png"/>视为两种BUFF，可以叠加。**唯独SCD和CAT不可叠加。**
- - 多种类的四圣BUFF，例如白虎BUFF<img src="../imgs/Item/Buff/Grace of Baihumon [AT] +50%.png"/>和朱雀BUFF<img src="../imgs/Item/Buff/Crystal [Uprising Flame] [AT] +50%.png"/>，都与<img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%.png"/>视为同一类BUFF，不可叠加。
+ - 前面提到的增幅器BUFF<img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%25.png"/>和插入卡BUFF，可以视为同一类BUFF。可以理解为它们本质是一样的，只是名字不一样，占你背包空间。
+ - 增幅器中的AT<img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%25.png"/>和DE<img src="../imgs/Item/Buff/Digimon Boost - [Defense] + 50%25.png"/>视为两个BUFF，可以同时生效，其他同理。
+ - 增幅器的SCD存在两种数值，50%<img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 50%25.png"/>和100%<img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 100%25.png"/>，视为同一个BUFF，不可叠加。
+ - 四圣BUFF<img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%25.png"/>和增幅器<img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%25.png"/>视为两种BUFF，可以叠加。**唯独SCD和CAT不可叠加。**
+ - 多种类的四圣BUFF，例如白虎BUFF<img src="../imgs/Item/Buff/Grace of Baihumon [AT] +50%25.png"/>和朱雀BUFF<img src="../imgs/Item/Buff/Crystal [Uprising Flame] [AT] +50%25.png"/>，都与<img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%25.png"/>视为同一类BUFF，不可叠加。
 
 ### 2.2 经验BUFF
 
- - 通常来说，技能栏上方可以存放2个经验增益BUFF，它们一个可以来自经验增幅器<img src="../imgs/Item/Buff/Amplification Booster.png"/>，另一个可以来自四圣BUFF<img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%.png"/>。
+ - 通常来说，技能栏上方可以存放2个经验增益BUFF，它们一个可以来自经验增幅器<img src="../imgs/Item/Buff/Amplification Booster.png"/>，另一个可以来自四圣BUFF<img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%25.png"/>。
  - Amplification Booster<img src="../imgs/Item/Buff/Amplification Booster.png"/>和Super Amplification Booster<img src="../imgs/Item/Buff/Super Amplification Booster.png"/>视为同一个BUFF，不可叠加。
  - Attribute EXP Booster<img src="../imgs/Item/Buff/Attribute EXP Booster.png"/>使用后将位于驯兽师BUFF栏中，可以与其他BUFF叠加。
  - 据说辣椒<img src="../imgs/Item/Buff/Spicy Chilli.png"/>可以和其他BUFF叠加使用。
