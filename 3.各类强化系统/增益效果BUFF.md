@@ -62,13 +62,14 @@
 
 练级可以吃的经验加成BUFF。
 
-|                                 图标                                  |               名称               |              效果               |  持续时间  | 冷却时间 |      备注       |
-| -------------------------------------------------------------------- | ------------------------------- | ------------------------------ | :-------: | :------: | --------------- |
-| <img src="../imgs/Item/Buff/Amplification Booster.png"/>             | Amplification Booster           | 经验获得量+200%/300%/500%/1000% |    30m    |          | 新手礼包会送很多 |
-| <img src="../imgs/Item/Buff/Super Amplification Booster.png"/>       | Super Amplification Booster     | 经验获得量+1000%                |    1h     |          |                 |
-| <img src="../imgs/Item/Buff/Attribute EXP Booster.png"/>             | Attribute EXP Booster           | 经验获得量+50%                  | 1d/7d/15d |          |                 |
-| <img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%25.png"/> | Grace of Challenge [EXP] +1000% | 经验获得量+1000%                |    2h     |          |                 |
-| <img src="../imgs/Item/Buff/Spicy Chilli.png"/>                      | Spicy Chilli                    | 经验获得量+200%                 |    1h     |    1h    |                 |
+|                                 图标                                  |               名称               |              效果               |  持续时间  | 冷却时间 |          备注           |
+| -------------------------------------------------------------------- | ------------------------------- | ------------------------------ | :-------: | :------: | ----------------------- |
+| <img src="../imgs/Item/Buff/ExpBooster.png"/>                        | ExpBooster                      | 经验获得量+100%                 | 可能是30m  |          |                         |
+| <img src="../imgs/Item/Buff/Amplification Booster.png"/>             | Amplification Booster           | 经验获得量+200%/300%/500%/1000% |    30m    |          | 新手礼包+日常在线会送很多 |
+| <img src="../imgs/Item/Buff/Super Amplification Booster.png"/>       | Super Amplification Booster     | 经验获得量+1000%                |    1h     |          |                         |
+| <img src="../imgs/Item/Buff/Attribute EXP Booster.png"/>             | Attribute EXP Booster           | 经验获得量+50%                  | 1d/7d/15d |          |                         |
+| <img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%25.png"/> | Grace of Challenge [EXP] +1000% | 经验获得量+1000%                |    2h     |          |                         |
+| <img src="../imgs/Item/Buff/Spicy Chilli.png"/>                      | Spicy Chilli                    | 经验获得量+200%                 |    1h     |    1h    |                         |
 
 ### 1.5 注意事项
 
@@ -92,7 +93,7 @@
  - 增幅器中的AT<img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%25.png"/>和DE<img src="../imgs/Item/Buff/Digimon Boost - [Defense] + 50%25.png"/>视为两个BUFF，可以叠加，它们在不同的数据维度上进行提升，可以同时生效，其他同理。
  - 增幅器的SCD存在两种数值，50%<img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 50%25.png"/>和100%<img src="../imgs/Item/Buff/Digimon Boost - [Skill Damage] + 100%25.png"/>，视为同一个BUFF，不可叠加。
  - 四圣BUFF<img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%25.png"/>和增幅器<img src="../imgs/Item/Buff/Digimon Boost - [Attack] + 50%25.png"/>视为两种BUFF，可以叠加。**唯独SCD和CAT效果不可叠加，谨记。**
- - 多种类的四圣BUFF，例如白虎种类的BUFF<img src="../imgs/Item/Buff/Grace of Baihumon [AT] +50%25.png"/>和朱雀种类的BUFF<img src="../imgs/Item/Buff/Crystal [Uprising Flame] [AT] +50%25.png"/>，都与黄龙种类的BUFF<img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%25.png"/>视为同一种BUFF，不可叠加。
+ - 多种类的四圣BUFF，例如白虎种类的BUFF<img src="../imgs/Item/Buff/Grace of Baihumon [AT] +50%25.png"/>和朱雀种类的BUFF<img src="../imgs/Item/Buff/Crystal [Uprising Flame] [AT] +50%25.png"/>，都与黄龙种类的BUFF<img src="../imgs/Item/Buff/Grace of Challenge [AT] +50%25.png"/>视为同一个BUFF，不可叠加。
 
 ### 2.2 经验BUFF
 
