@@ -53,7 +53,7 @@
 | <img src="../imgs/Item/Buff/Grace of Challenge [DE] +50%25.png"/>               | Grace of Challenge [DE] +50%               | 基础DE+50%        |    2h    |          | 似乎只有青龙、黄龙副本会产出 |
 | <img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%25.png"/>            | Grace of Challenge [EXP] +1000%            | 经验获得量+1000%  |    2h    |          |                           |
 | <img src="../imgs/Item/Buff/Grace of Challenge [Skill Damage] +100%25.png"/>    | Grace of Challenge [Skill Damage] +100%    | 基础技能伤害+100% |    2h    |   15m    |                           |
-| <img src="../imgs/Item/Buff/Grace of Challenge [Critical Damage] +100%25.png"/> | Grace of Challenge [Critical Damage] +100% | 基础暴击伤害+100% |    2h    |   15m    |                           |
+| <img src="../imgs/Item/Buff/Grace of Challenge [Critical Damage] +100%25.png"/> | Grace of Challenge [Critical Damage] +100% | 基础暴击伤害+100% |    1m    |   15m    |      请注意这个是1分钟                     |
 | <img src="../imgs/Item/Buff/Grace of Challenge [MS] +35%25.png"/>               | Grace of Challenge [MS] +35%               | 移动速度+35%      |    2h    |    5m    |                           |
 
 > 注：有时你能在地摊找到其他的四圣BUFF，但他们都可以在基地的蛋蛋兽处兑换成统一的BUFF，也就是Grace of Challenge，这样就能减少背包占用了。
@@ -67,7 +67,7 @@
 | <img src="../imgs/Item/Buff/ExpBooster.png"/>                        | ExpBooster                      | 经验获得量+100%                 | 可能是30m  |          |                         |
 | <img src="../imgs/Item/Buff/Amplification Booster.png"/>             | Amplification Booster           | 经验获得量+200%/300%/500%/1000% |    30m    |          | 新手礼包+日常在线会送很多 |
 | <img src="../imgs/Item/Buff/Super Amplification Booster.png"/>       | Super Amplification Booster     | 经验获得量+1000%                |    1h     |          |                         |
-| <img src="../imgs/Item/Buff/Attribute EXP Booster.png"/>             | Attribute EXP Booster           | 经验获得量+50%                  | 1d/7d/15d |          |                         |
+| <img src="../imgs/Item/Buff/Attribute EXP Booster.png"/>             | Attribute EXP Booster           | 经验获得量+50%                  | 1d/7d/15d/30d |          |                         |
 | <img src="../imgs/Item/Buff/Grace of Challenge [EXP] +1000%25.png"/> | Grace of Challenge [EXP] +1000% | 经验获得量+1000%                |    2h     |          |                         |
 | <img src="../imgs/Item/Buff/Spicy Chilli.png"/>                      | Spicy Chilli                    | 经验获得量+200%                 |    1h     |    1h    |                         |
 
