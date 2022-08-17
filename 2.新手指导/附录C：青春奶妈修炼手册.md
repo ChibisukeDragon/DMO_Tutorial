@@ -21,7 +21,7 @@
 
 理论上，数码兽成为奶妈的条件就是：数码兽的等级超过70级，可以学习高级High/Lv.3的IC技能即可。所以说当奶妈几乎没有门槛。
 
-如果你是萌新，还不确定是否想要成为奶妈，我推荐你先将**周币**<img src="../imgs/Item/Coin/[Monthly] Arena Voucher.png"/>存下来，别着急换骑乘道具啥的。等一两周后决定后，再看看是不是要当奶妈。
+如果你是萌新，还不确定是否想要成为奶妈，我推荐你先将**周币**<img src="../imgs/Item/Coin/[Weekly] Arena Voucher.png"/>存下来，别着急换骑乘道具啥的。等一两周后决定后，再看看是不是要当奶妈。
 
 ### 1.2 铁打的奶妈，流水的C
 
@@ -65,7 +65,7 @@
 
 <div align="center"><img src="../imgs/Screenshot/2.新手指导/附录C/竞技场.png"/></div>
 
-每4个**周币**<img src="../imgs/Item/Coin/[Monthly] Arena Voucher.png"/>可以兑换1个球<img src="../imgs/Item/Memory Skill/Skill Memory Capsule [Support].png"/>。
+每4个**周币**<img src="../imgs/Item/Coin/[Weekly] Arena Voucher.png"/>可以兑换1个球<img src="../imgs/Item/Memory Skill/Skill Memory Capsule [Support].png"/>。
 
 <div align="center"><img src="../imgs/Screenshot/2.新手指导/附录C/兑换IC球.png"/></div>
 
@@ -73,18 +73,24 @@
 
 <div align="center"><img src="../imgs/Screenshot/2.新手指导/附录C/扫描IC球.png"/></div>
 
-最高级的技能只能通过商城氪金购买**最高级IC技能球**（Highest Skill Memory Capsule）<img src="../imgs/Item/Memory Skill/Highest Skill Memory Capsule.png"/>才能获得，所以普通奶妈的最终目标是IC技能等级都达到**高级**。辅助球总共有3级×6种=18种技能，有5.6%的几率能获得你想要的那一个。一个合格的奶妈应该具备诸如以下的配置：
+最高级的技能只能通过商城氪金购买**最高级IC技能球**（Highest Skill Memory Capsule）<img src="../imgs/Item/Memory Skill/Highest Skill Memory Capsule.png"/>才能获得，所以普通奶妈的最终目标是IC技能等级都达到**高级**。辅助球总共有3级×6种=18种技能，有5.6%的几率能获得你想要的那一个。
+
+一个合格的奶妈应该具备诸如以下的配置：
 
 | 序号 |                                                                 技能搭配                                                                  |             评价              |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | 1    | <img src="../imgs/Memory Skills/Regenerative Ability.png"/>再生能力xN + <img src="../imgs/Memory Skills/The Tree of Life.png"/>生命之树x1 | 常规单回奶妈，适合C数量≤2的副本 |
 | 2    | <img src="../imgs/Memory Skills/The Hand of Healing.png"/>治愈之手xN + <img src="../imgs/Memory Skills/The Tree of Life.png"/>生命之树x1  | 常规群回奶妈，适合C数量≥2的副本 |
-| 3    | <img src="../imgs/Memory Skills/Regenerative Ability.png"/>再生能力xN                                                                    | 极限单回奶妈                   |
-| 4    | <img src="../imgs/Memory Skills/The Hand of Healing.png"/>治愈之手xN                                                                     | 极限群回奶妈                   |
+| 3    | <img src="../imgs/Memory Skills/Regenerative Ability.png"/>再生能力xN                                                                    | 纯单回奶妈                    |
+| 4    | <img src="../imgs/Memory Skills/The Hand of Healing.png"/>治愈之手xN                                                                     | 纯群回奶妈                    |
 
 > N通常等于4，极限时可以等于5或6。
 
 多余的IC技能，低级的可以全部扔掉或者是塞给其他宠玩，中级的看情况保留，高级的可以囤着。使用IC技能道具，就可以让当前数码兽的当前进化形态学习该技能。初阶奶妈也可以塞入几个低级或中级的技能，待以后抽到高级的技能后删除原技能再更换为新技能即可。
+
+实践来看，抽中想要的技能的概率为5.6%，可以简单理解为：抽100个IC球<img src="../imgs/Item/Memory Skill/Skill Memory Capsule [Support].png"/>，获得了5.6个想要的技能<img src="../imgs/Memory Skills/Support Skills.png"/>。这意味着，平均来看，每个人需要抽约17.76次才能抽到想要的技能。而我们做一个奶妈，假设需要1个生命之树<img src="../imgs/Memory Skills/The Tree of Life.png"/>和4个治愈之手<img src="../imgs/Memory Skills/The Hand of Healing.png"/>，则我们预计消耗约88.8个IC球<img src="../imgs/Item/Memory Skill/Skill Memory Capsule [Support].png"/>。如果每周能获得40个周币<img src="../imgs/Item/Coin/[Weekly] Arena Voucher.png"/>，也仅仅只能换10个IC球<img src="../imgs/Item/Memory Skill/Skill Memory Capsule [Support].png"/>。
+
+所以，想要进化为究极体奶妈，拥有全部的高级技能，预计需要8周以上的全勤JJC才能做到。所以萌新们通常会混入几个低级/中级的IC技能来凑合用，这样大概只需要2-3周就能成型。
 
 释放IC技能需要消耗背包中的**记忆芯片**（Memory Chip）<img src="../imgs/Item/Memory Skill/Memory Chip.png"/>，你可以在基地的贩卖机处购买它。如果你奶妈的进化需要消耗**加速器**（Accelerator）<img src="../imgs/Item/Accelerator.png"/>，也可以进行购买。
 
@@ -146,6 +152,8 @@
 然后等待进化CD，紧接着进化到机甲龙兽，再观察队友血线，以此类推。
 
 直到进化到帝皇龙甲兽战士形态，再根据自身情况，是否扩展白帝。
+
+关于奶妈的奶距离和山羊的操作，未来再补充。。。
 
 ## 7. 战后总结
 
